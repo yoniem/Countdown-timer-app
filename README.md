@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/countdown-timer-app.git
+git clone https://github.com/yoniem/countdown-timer-app.git
 cd countdown-timer-app
 Install dependencies:
 
